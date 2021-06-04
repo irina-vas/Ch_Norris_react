@@ -1,0 +1,25 @@
+.wrapper {
+  width: 100vw;
+  height: 55px;
+  background-color: #422ed4;
+  display: flex;
+  align-items: center;
+}
+
+.container {
+  width: 70vw;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  width: 40px;
+}
+
+.container > span {
+  padding-left: 20px;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 700;
+}

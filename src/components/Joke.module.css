@@ -1,0 +1,29 @@
+.wrapper {
+  width: 70vw;
+  margin: 150px auto 0;
+  height: 150px;
+  background-color: #422ed4;
+  border-radius: 20px;
+  box-sizing: border-box;
+  position: relative;
+  margin-bottom: 150px;
+}
+
+.chuckImage {
+  position: absolute;
+  width: 100px;
+  top: -89%;
+  left: 88%;
+  z-index: 0;
+
+}
+
+.randomeJoke {
+  padding: 30px;
+  font-size: 18px;
+  color: #fff;
+  font-weight:500;
+  position: relative;
+  letter-spacing: 0.05em;
+}
+
